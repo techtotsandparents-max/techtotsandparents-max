@@ -35,7 +35,7 @@
 
 <!-- ░░░░░░░░░░░░░░░░░░░░ PROFILE PHOTO + ABOUT ░░░░░░░░░░░░░░░░░░░░░░ -->
 
-<img src=".github/assets/profile.jpg" width="180" style="border-radius: 50%;" alt="Rahul Tripathi" />
+<img src="https://github.com/techtotsandparents-max.png" width="180" style="border-radius: 50%;" alt="Rahul Tripathi" />
 
 <br/><br/>
 
