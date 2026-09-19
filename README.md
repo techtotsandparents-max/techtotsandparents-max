@@ -2,17 +2,7 @@
      RAHUL TRIPATHI — GitHub Profile README v2.0
      ═══════════════════════════════════════════════════════════════════════ -->
 
-<div align="center">
-
-# 👋 Hi, I'm **Rahul Tripathi**
-
-### `Principal Cloud & Systems Architect` @ **Amadeus Labs**
-
-`Azure` · `Terraform` · `Secure AI Platform` · `12+ Years Enterprise Cloud`
-
-<br/>
-</div>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1b27,100:00FF99&height=220&section=header&text=Rahul%20Tripathi&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Principal%20Cloud%20%26%20Systems%20Architect%20%7C%20Azure%20%7C%20AI%20Platform&descSize=16&descColor=00FF99&descAlignY=55" width="100%"/>
 
 <!-- ░░░░░░░░░░░ TYPING ANIMATION ░░░░░░░░░░░ -->
 <div align="center">
@@ -164,8 +154,8 @@ domains:
 
 > *"I define the standards other engineering teams build against while staying close to implementation to validate that designs work reliably in production."*
 
----
+<br/>
 
-⭐ *From [Rahul Tripathi](https://github.com/techtotsandparents-max)*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1b27,100:00FF99&height=100&section=footer" width="100%"/>
 
 </div>
