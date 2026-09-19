@@ -12,6 +12,11 @@
 
 <br/>
 
+<!-- ░░░░░░░░░░░ TYPING ANIMATION ░░░░░░░░░░░ -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1500&color=00FF99&background=0D111700&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=70&lines=%24+whoami+%E2%86%92+Cloud+Architect+%7C+12%2B+Years;%24+cat+%2Fetc%2Fmission+%E2%86%92+Designing+at+enterprise+scale" alt="Typing SVG" />
+</a>
+
 </div>
 
 <br/>
