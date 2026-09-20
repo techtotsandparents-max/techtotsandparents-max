@@ -102,17 +102,13 @@ currently_architecting:
 <h3 align="center">🏅 Certifications</h3>
 
 <div align="center">
-
-![AI Architect](https://img.shields.io/badge/AI_Solutions_Architect_(AB--100)-D83B01?style=for-the-badge&logo=microsoft&logoColor=white)
-![Azure Architect](https://img.shields.io/badge/Azure_Solutions_Architect_Expert-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Azure Security](https://img.shields.io/badge/Azure_Security_Engineer_(AZ--500)-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
-<br/>
-
-![Azure Admin](https://img.shields.io/badge/Azure_Administrator_(AZ--103)-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![MCSE](https://img.shields.io/badge/MCSE_Cloud_Platform-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![ITIL](https://img.shields.io/badge/ITIL_Foundation-8D357F?style=for-the-badge)
-
+  <img src="./badges/badge_1.png" height="120" alt="Azure Security Engineer Associate" />
+  <img src="./badges/badge_2.png" height="120" alt="Azure Solutions Architect Expert" />
+  <img src="./badges/badge_3.png" height="120" alt="Azure Administrator Associate" />
+  <img src="./badges/badge_4.png" height="120" alt="ITIL Foundation" />
+  <img src="./badges/badge_5.png" height="120" alt="MCSA Cloud Platform" />
+  <img src="./badges/badge_6.png" height="120" alt="Azure 500 Security" />
+  <img src="./badges/badge_7.png" height="120" alt="Agentic AI Business Solutions Architect" />
 </div>
 
 ---
