@@ -14,35 +14,15 @@
 
 </div>
 
-<!-- ░░░░░░░░░░░ ASCII PORTRAIT + INFO CARD ░░░░░░░░░░░ -->
-<div align="center">
-
-<table>
+<!-- ░░░░░░░░░░░ ASCII PORTRAIT + SYSTEM INFO ░░░░░░░░░░░ -->
+<table align="center" border="0" cellpadding="0" cellspacing="0">
 <tr>
-<td valign="top"><img src="./avi-ascii.svg" width="400" alt="ASCII portrait" /></td>
-<td valign="top"><img src="./info-card.svg" width="490" alt="Experience, stack, highlights" /></td>
-</tr>
-</table>
+<td valign="top">
 
-</div>
-
-<!-- ░░░░░░░░░░░ ABOUT SECTION ░░░░░░░░░░░ -->
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="850">
-<tr>
-<td width="30%" align="center" valign="middle">
-
-<img src="https://github.com/techtotsandparents-max.png" width="220" alt="Rahul Tripathi"/>
-
-<br/><br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rahul-tripathi-a05a1693)
-<br/>
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Tripathi.rahultripathi1992@gmail.com)
-<br/>
-[![Portfolio](https://img.shields.io/badge/Portfolio-00FF99?style=for-the-badge&logo=google-chrome&logoColor=0D1117)](https://github.com/techtotsandparents-max/rahulsite)
+<img src="./avi-ascii.svg" width="400" alt="ASCII portrait" />
 
 </td>
-<td width="70%" valign="top">
+<td valign="top">
 
 ```yaml
 # SYSTEM_INFO
