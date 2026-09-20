@@ -103,12 +103,15 @@ currently_architecting:
 
 <div align="center">
 
-**Microsoft Certified: Architect AI Solutions for Business Productivity** (AB-100)<br/>
-**Microsoft Certified: Azure Solutions Architect Expert** (AZ-300 / AZ-301)<br/>
-**Microsoft Certified: Azure Security Engineer Associate** (AZ-500)<br/>
-**Microsoft Certified: Azure Administrator Associate** (AZ-103)<br/>
-**MCSE: Cloud Platform and Infrastructure**<br/>
-**ITIL Foundation, IT Service Management**
+![AI Architect](https://img.shields.io/badge/AI_Solutions_Architect_(AB--100)-D83B01?style=for-the-badge&logo=microsoft&logoColor=white)
+![Azure Architect](https://img.shields.io/badge/Azure_Solutions_Architect_Expert-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure Security](https://img.shields.io/badge/Azure_Security_Engineer_(AZ--500)-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+<br/>
+
+![Azure Admin](https://img.shields.io/badge/Azure_Administrator_(AZ--103)-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![MCSE](https://img.shields.io/badge/MCSE_Cloud_Platform-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![ITIL](https://img.shields.io/badge/ITIL_Foundation-8D357F?style=for-the-badge)
 
 </div>
 
