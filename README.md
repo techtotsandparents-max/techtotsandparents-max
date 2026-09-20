@@ -98,6 +98,15 @@ currently_architecting:
 
 ---
 
+<!-- ░░░░░░░░░░░ CERTIFICATIONS ░░░░░░░░░░░ -->
+<h3 align="center">🏅 Certifications</h3>
+
+<div align="center">
+  <img src="./certifications-banner.png" width="100%" alt="Microsoft & ITIL Certifications: Azure Security Engineer, Solutions Architect, Administrator, AI Business Solutions Architect, ITIL, MCSA" />
+</div>
+
+---
+
 <!-- ░░░░░░░░░░░ KEY HIGHLIGHTS ░░░░░░░░░░░ -->
 <h3 align="center">🏆 Professional Impact</h3>
 
