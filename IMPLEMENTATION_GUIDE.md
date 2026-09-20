@@ -12,11 +12,11 @@ If you don't already have one, create a new public repository named **exactly af
 
 ### Step 2: Copy the Architecture
 1. Download or copy all the files from this repository into your newly created profile repository. 
-   - Specifically, you need the `scripts/` folder, the `data/` folder, `.github/workflows/update-profile-art.yml`, and `profile-README-template.md`.
+   - Specifically, you need the `scripts/` folder, the `data/` folder, `.github/workflows/update-profile-art.yml`, and `README.md`.
 
 ### Step 3: Customize Your Content
-1. **The ASCII Portrait**: If you want your own photo as ASCII art, replace `source-photo.jpg` with a square portrait of yourself. Run the background removal and ASCII generation scripts locally (or just use the default).
-2. **The Markdown Layout**: Open `profile-README-template.md` (or simply edit `README.md` directly) and replace my placeholder text with your actual name, titles, social links, and certifications.
+1. **The ASCII Portrait**: If you want your own photo as ASCII art, place a square portrait of yourself in the root directory named `source-photo.jpg`. Run the background removal and ASCII generation scripts locally (`python scripts/prep_photo.py` then `python scripts/make_ascii_svg.py`), then commit the generated `avi-ascii.svg`.
+2. **The Markdown Layout**: Open `README.md` and replace my placeholder text, YAML system info block, and titles with your own details.
 3. **The Tech Stack Badges**: Customize the Shields.io badges in the README to reflect your own skills.
 
 ### Step 4: Enable GitHub Actions
