@@ -14,6 +14,18 @@
 
 </div>
 
+<!-- ░░░░░░░░░░░ ASCII PORTRAIT + INFO CARD ░░░░░░░░░░░ -->
+<div align="center">
+
+<table>
+<tr>
+<td valign="top"><img src="./avi-ascii.svg" width="400" alt="ASCII portrait" /></td>
+<td valign="top"><img src="./info-card.svg" width="490" alt="Experience, stack, highlights" /></td>
+</tr>
+</table>
+
+</div>
+
 <!-- ░░░░░░░░░░░ ABOUT SECTION ░░░░░░░░░░░ -->
 <table align="center" border="0" cellpadding="0" cellspacing="0" width="850">
 <tr>
