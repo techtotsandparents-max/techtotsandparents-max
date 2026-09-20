@@ -48,6 +48,14 @@ core_domains:
 </tr>
 </table>
 
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rahul-tripathi-a05a1693)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Tripathi.rahultripathi1992@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00FF99?style=for-the-badge&logo=google-chrome&logoColor=0D1117)](https://github.com/techtotsandparents-max/rahulsite)
+
+</div>
+
 ---
 
 <!-- ░░░░░░░░░░░ TECH STACK ░░░░░░░░░░░ -->
