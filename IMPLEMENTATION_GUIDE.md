@@ -32,3 +32,4 @@ The workflow will now run. It will execute the Python scripts to fetch your publ
 
 ---
 *Created by [Rahul Tripathi](https://github.com/techtotsandparents-max) — Principal Cloud & Systems Architect.*
+*Copyright (c) 2026. Released under the [MIT License](./LICENSE).*

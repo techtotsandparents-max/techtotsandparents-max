@@ -180,4 +180,10 @@ currently_architecting:
 
 ⭐ *From [Rahul Tripathi](https://github.com/techtotsandparents-max)*
 
+<br/>
+
+<p align="center">
+  <small>Copyright (c) 2026 Rahul Tripathi. This project is open-source under the <a href="./LICENSE">MIT License</a>.</small>
+</p>
+
 </div>
