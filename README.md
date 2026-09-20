@@ -31,23 +31,24 @@ role:      Principal Cloud & Systems Architect
 company:   Amadeus Labs, Bengaluru
 experience: 12+ years
 
-core_discipline:
-  - End-to-end distributed system design (HLD → LLD)
-  - High-Level: Reference architectures, domain/service boundaries, VNet topology, failure modes, NFRs
-  - Low-Level: Component design, interface contracts, data flows, identity/access models, deployment engineering
+core_discipline: End-to-End Distributed Systems
+  # HLD → LLD
+high_level:
+  - Reference architectures & domain boundaries
+  - Network topology & failure modes
+low_level:
+  - Component design & interface contracts
+  - Data flows & identity/access models
 
 architecture_scope:
-  - Cloud-native web apps & serverless compute (Azure Functions)
-  - Containerised microservices on Azure Container Registry (ACR)
-  - Multi-tenant data layers (Cosmos DB, Relational, Azure AI Search)
-  - Enterprise landing zones with Zero Trust identity perimeters
-  - Blast radius containment via segmented virtual network topologies
+  - Web Apps, Azure Functions, ACR Microservices
+  - Cosmos DB, SQL, Azure AI Search
+  - Landing Zones & Zero Trust Perimeters
 
 currently_architecting:
-  - Enterprise landing zones on Azure (Hub-and-Spoke)
+  - Enterprise landing zones (Hub-and-Spoke)
   - Secure AI platforms on Azure AI Foundry
   - Multi-agent orchestration (MCP + A2A)
-  - Enterprise architecture standards and governance
 ```
 
 </td>
