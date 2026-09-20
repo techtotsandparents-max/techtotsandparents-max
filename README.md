@@ -102,13 +102,14 @@ currently_architecting:
 <h3 align="center">🏅 Certifications</h3>
 
 <div align="center">
-  <img src="./badges/badge_1.png" height="120" alt="Azure Security Engineer Associate" />
-  <img src="./badges/badge_2.png" height="120" alt="Azure Solutions Architect Expert" />
-  <img src="./badges/badge_3.png" height="120" alt="Azure Administrator Associate" />
-  <img src="./badges/badge_4.png" height="120" alt="ITIL Foundation" />
-  <img src="./badges/badge_5.png" height="120" alt="MCSA Cloud Platform" />
-  <img src="./badges/badge_6.png" height="120" alt="Azure 500 Security" />
-  <img src="./badges/badge_7.png" height="120" alt="Agentic AI Business Solutions Architect" />
+
+**Microsoft Certified: Architect AI Solutions for Business Productivity (AB-100)**<br/>
+**Microsoft Certified: Azure Solutions Architect Expert (AZ-300 / AZ-301)**<br/>
+**Microsoft Certified: Azure Security Engineer Associate (AZ-500)**<br/>
+**Microsoft Certified: Azure Administrator Associate (AZ-103)**<br/>
+**MCSE: Cloud Platform and Infrastructure**<br/>
+**ITIL Foundation, IT Service Management**
+
 </div>
 
 ---
