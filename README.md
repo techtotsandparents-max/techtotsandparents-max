@@ -31,17 +31,23 @@ role:      Principal Cloud & Systems Architect
 company:   Amadeus Labs, Bengaluru
 experience: 12+ years
 
+core_discipline:
+  - End-to-end distributed system design (HLD → LLD)
+  - High-Level: Reference architectures, domain/service boundaries, VNet topology, failure modes, NFRs
+  - Low-Level: Component design, interface contracts, data flows, identity/access models, deployment engineering
+
+architecture_scope:
+  - Cloud-native web apps & serverless compute (Azure Functions)
+  - Containerised microservices on Azure Container Registry (ACR)
+  - Multi-tenant data layers (Cosmos DB, Relational, Azure AI Search)
+  - Enterprise landing zones with Zero Trust identity perimeters
+  - Blast radius containment via segmented virtual network topologies
+
 currently_architecting:
   - Enterprise landing zones on Azure (Hub-and-Spoke)
   - Secure AI platforms on Azure AI Foundry
   - Multi-agent orchestration (MCP + A2A)
   - Enterprise architecture standards and governance
-
-core_domains:
-  - Cloud Architecture & Networking
-  - Security, Identity (Entra ID) & Zero Trust
-  - Infrastructure as Code (Terraform, Bicep)
-  - Reliability & Cost Optimization
 ```
 
 </td>
@@ -51,7 +57,7 @@ core_domains:
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rahul-tripathi-a05a1693)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Tripathi.rahultripathi1992@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tripathi.rahultripathi1992@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00FF99?style=for-the-badge&logo=google-chrome&logoColor=0D1117)](https://github.com/techtotsandparents-max/rahulsite)
 
 </div>
