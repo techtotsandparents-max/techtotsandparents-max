@@ -102,7 +102,14 @@ currently_architecting:
 <h3 align="center">🏅 Certifications</h3>
 
 <div align="center">
-  <img src="./certifications-banner.png" width="100%" alt="Microsoft & ITIL Certifications: Azure Security Engineer, Solutions Architect, Administrator, AI Business Solutions Architect, ITIL, MCSA" />
+
+**Microsoft Certified: Architect AI Solutions for Business Productivity** (AB-100)<br/>
+**Microsoft Certified: Azure Solutions Architect Expert** (AZ-300 / AZ-301)<br/>
+**Microsoft Certified: Azure Security Engineer Associate** (AZ-500)<br/>
+**Microsoft Certified: Azure Administrator Associate** (AZ-103)<br/>
+**MCSE: Cloud Platform and Infrastructure**<br/>
+**ITIL Foundation, IT Service Management**
+
 </div>
 
 ---
