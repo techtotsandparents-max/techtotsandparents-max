@@ -84,6 +84,9 @@ currently_architecting:
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Web Apps](https://img.shields.io/badge/Web_Apps-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Function App](https://img.shields.io/badge/Function_App-0062AD?style=for-the-badge&logo=azurefunctions&logoColor=white)
+![Container Apps](https://img.shields.io/badge/Container_Apps-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 <br/>
 
