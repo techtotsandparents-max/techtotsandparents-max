@@ -4,7 +4,8 @@
 
 <div align="center">
 
-# 👋 Hi, I'm Rahul Tripathi
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35" alt="wave" /> Hi, I'm Rahul Tripathi
+
 
 ### Principal Cloud & Systems Architect @ Amadeus Labs
 
